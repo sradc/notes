@@ -77,6 +77,11 @@ above the functions, and it suggested the names that are currently used... Amazi
 
 # Links and resources
 
+### [Optuna tutorial](https://optuna.readthedocs.io/en/stable/tutorial/index.html)
+- includes a tutorial video
+- "Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning"
+
+
 ### [Hands-on Machine Learning Notebooks, 3rd edition](https://github.com/ageron/handson-ml3)
 - Jupyter notebooks for *Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow*
 - Packed full of useful information
