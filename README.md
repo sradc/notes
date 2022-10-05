@@ -3,6 +3,11 @@
 *notes and links to resources*
 
 
+### [Imagen Video: high definition video generation with diffusion models](https://imagen.research.google/video/)
+- Given a text prompt, Imagen Video generates high definition videos using a base video generation model and a sequence of interleaved spatial and temporal video super-resolution models
+- [Hacker News discussion](https://news.ycombinator.com/item?id=33098704)
+- [Paper pdf](https://imagen.research.google/video/paper.pdf)
+
 ### [CMSC 430: Design and Implementation of Programming Languages](https://www.cs.umd.edu/class/fall2022/cmsc430/index.html)
 
 <img src="./media/wizard.jpg" width=200>
