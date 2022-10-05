@@ -3,6 +3,11 @@
 *notes and links to resources*
 
 
+### [Hands-on Machine Learning Notebooks, 3rd edition](https://github.com/ageron/handson-ml3)
+- Jupyter notebooks for *Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow*
+- Packed full of useful information
+
+
 ### [MLOps with Vertex AI repo](https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai)
 - implements the end-to-end MLOps process using Vertex AI platform and Smart Analytics 
 - uses Keras to implement the ML model, TFX to implement the training pipeline, and Model Builder SDK to interact with Vertex AI.
