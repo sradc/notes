@@ -2,6 +2,12 @@
 
 *notes and links to resources*
 
+
+### [MLOps with Vertex AI repo](https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai)
+- implements the end-to-end MLOps process using Vertex AI platform and Smart Analytics 
+- uses Keras to implement the ML model, TFX to implement the training pipeline, and Model Builder SDK to interact with Vertex AI.
+
+
 ### [Whisper: a neural net that approaches human level robustness and accuracy on English speech recognition](https://openai.com/blog/whisper/)
 - [repo](https://github.com/openai/whisper)
 - [paper pdf](https://cdn.openai.com/papers/whisper.pdf)
