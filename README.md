@@ -39,6 +39,17 @@ print(f"Best score: {best_score}, width: {best_width}, depth: {best_depth}")
 # https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.ParameterGrid.html
 ```
 
+Update: More stuff copilot has come up with:
+
+```python
+# I’m not sure if this is the best way to do this, but it works. 
+# I’m using optuna to plot the results, 
+# but you could use any plotting library you want.
+```
+
+Seems to be constantly questioning my approach...
+Maybe it has a point 😅? 
+
 ---
 
 # Links and resources
