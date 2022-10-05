@@ -3,6 +3,11 @@
 *notes and links to resources*
 
 
+### [DreamBooth Stable Diffusion training in 10 GB VRAM, using xformers, 8bit adam, gradient checkpointing and caching latents.](https://old.reddit.com/r/MachineLearning/comments/xtc3g5/d_dreambooth_stable_diffusion_training_in_10_gb/)
+- [code](https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth)
+- [Colab notebook](https://colab.research.google.com/github/ShivamShrirao/diffusers/blob/main/examples/dreambooth/DreamBooth_Stable_Diffusion.ipynb)
+
+
 ### [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 - "This is a gentle introduction to how Stable Diffusion works."
 - [Hacker News discussion](https://news.ycombinator.com/item?id=33084205)
