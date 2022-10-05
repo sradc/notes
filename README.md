@@ -1,9 +1,5 @@
 # notes
 
-*notes and links to resources*
-
----
-
 ### 2022-10-05 text-to-video
 
 <img src="./media/Make-A-Video_dog.jpg" width=200>
@@ -13,9 +9,39 @@ As if all the text-to-image models released in the last year weren't exciting en
 - https://phenaki.github.io/ (released today, 2022-10-05)
 - https://ai.facebook.com/blog/generative-ai-text-to-video/ (last week, 2022-09-29)
 
+### 2022-10-05 playing with copilot
+
+Decided to give [copilot](https://github.com/features/copilot) a try this evening.
+Set out to see how it works, on a toy example of hyperparameter tuning.
+
+It was doing fairly well at generating code 
+(although I'm still getting the hang of "prompting it" such 
+that it produces the desired output), 
+and then surprised me with a `#TODO`, 
+telling me to use a library instead of coding this stuff myself 😮😂.
+ 
+The code snippet:
+
+```python
+scores = []
+for width in hyperparams["width"]:
+    for depth in hyperparams["depth"]:
+        score = train_model(width=width, depth=depth)
+        scores.append((score, width, depth))
+scores.sort(reverse=True)
+best_score, best_width, best_depth = scores[0]
+print(f"Best score: {best_score}, width: {best_width}, depth: {best_depth}")
+
+# TODO: Use a library like scikit-learn to do this more easily
+# https://scikit-learn.org/stable/modules/grid_search.html
+# https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+# https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html
+# https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.ParameterGrid.html
+```
+
 ---
 
-## Links and resources:
+# Links and resources
 
 ### [Hands-on Machine Learning Notebooks, 3rd edition](https://github.com/ageron/handson-ml3)
 - Jupyter notebooks for *Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow*
