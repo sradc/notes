@@ -14,7 +14,7 @@
 
 ### [SOLID Principles explained in Python with examples.](https://gist.github.com/dmmeteo/f630fa04c7a79d3c132b9e9e5d037bfd)
 
-<img src="./media/solid_principles.jpg" width=200>
+<img src="./media/solid_principles.jpg" width=400>
 
 - Contains straightforward Python examples for SOLID:
     - Single Responsibility Principle
