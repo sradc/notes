@@ -17,7 +17,7 @@ Set out to see how it works, on a toy example of hyperparameter tuning.
 It was doing fairly well at generating code 
 (although I'm still getting the hang of "prompting it" such 
 that it produces the desired output), 
-and then surprised me with a `#TODO`, 
+and it then surprised me with a `#TODO`, 
 telling me to use a library instead of coding this stuff myself 😮😂.
  
 The code snippet:
