@@ -38,3 +38,8 @@
     - Liskov Substitution Principle
     - Interface Segregation Principle
     - Dependency Inversion Principle
+
+
+### [ZenML](https://zenml.io/home)
+- "Open-source pipeline framework"
+- "Get all your ML workflows running on any tooling stack with minimum effort."
