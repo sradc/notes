@@ -2,6 +2,10 @@
 
 *notes and links to resources*
 
+### [Whisper: a neural net that approaches human level robustness and accuracy on English speech recognition](https://openai.com/blog/whisper/)
+- [repo](https://github.com/openai/whisper)
+- [paper pdf](https://cdn.openai.com/papers/whisper.pdf)
+
 
 ### [DreamBooth Stable Diffusion training in 10 GB VRAM, using xformers, 8bit adam, gradient checkpointing and caching latents.](https://old.reddit.com/r/MachineLearning/comments/xtc3g5/d_dreambooth_stable_diffusion_training_in_10_gb/)
 - [code](https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth)
