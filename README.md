@@ -50,6 +50,29 @@ Update: More stuff copilot has come up with:
 Seems to be constantly questioning my approach...
 Maybe it has a point 😅? 
 
+Update: added the result of my first play with copilot in [dump/2022-10-05_copilot_first_try.py](dump/2022-10-05_copilot_first_try.py).
+
+Very impressed... I think this is a big deal.
+Although I had seen it mentioned, and discussed,
+I hadn't quite appreciated how impactful this kind of tool
+is probably going to be.
+I have a feeling that the majority of people are currently in that boat;
+they've seen mention, or talk of copilot, 
+but haven't looked into it much.
+
+Some cool things:
+- I've never used `plotly.express`, and just told github copilot to use it via a comment. After a few tries it produced working code
+- I was able to get copilot to transform the data fairly easily, using comments
+- it produced the `iter_param_combos` code (had to nudge it to use `product`)
+- it produced the evaluation loop
+- it produced the plotting code
+
+There was a certain amount of nudging; trying different starting points (fragments of code, comments); but even in that tiny example copilot did a lot.
+
+I even found that it could suggest better function names. 
+I just added `# a better name for this function would be`
+above the functions, and it suggested the names that are currently used... Amazing.
+
 ---
 
 # Links and resources
