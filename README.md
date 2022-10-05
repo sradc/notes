@@ -2,6 +2,20 @@
 
 *notes and links to resources*
 
+---
+
+### 2022-10-05 text-to-video
+
+<img src="./media/Make-A-Video_dog.jpg" width=200>
+
+As if all the text-to-image models released in the last year weren't exciting enough, we've moved on to fairly high quality text-to-video already:
+- https://imagen.research.google/video/ (released today, 2022-10-05)
+- https://phenaki.github.io/ (released today, 2022-10-05)
+- https://ai.facebook.com/blog/generative-ai-text-to-video/ (last week, 2022-09-29)
+
+---
+
+## Links and resources:
 
 ### [Hands-on Machine Learning Notebooks, 3rd edition](https://github.com/ageron/handson-ml3)
 - Jupyter notebooks for *Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow*
