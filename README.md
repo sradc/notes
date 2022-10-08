@@ -77,6 +77,11 @@ above the functions, and it suggested the names that are currently used... Amazi
 
 # Links and resources
 
+### [InCoder: A Generative Model for Code In-Filling and Synthesis](https://sites.google.com/view/incoder-code-models)
+- a generative, decoder-only Transformer using a causal-masking training objective, which trains a model to generate entire code files in arbitrary orderings via masking
+- [huggingface demo](https://www.google.com/url?q=https%3A%2F%2Fhuggingface.co%2Fspaces%2Ffacebook%2Fincoder-demo&sa=D&sntz=1&usg=AOvVaw3IcuVBoMRILHeMyx_pLFgO)
+
+
 ### [Optuna tutorial](https://optuna.readthedocs.io/en/stable/tutorial/index.html)
 - includes a tutorial video
 - "Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning"
