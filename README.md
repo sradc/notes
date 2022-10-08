@@ -82,6 +82,12 @@ above the functions, and it suggested the names that are currently used... Amazi
 - [huggingface demo](https://www.google.com/url?q=https%3A%2F%2Fhuggingface.co%2Fspaces%2Ffacebook%2Fincoder-demo&sa=D&sntz=1&usg=AOvVaw3IcuVBoMRILHeMyx_pLFgO)
 
 
+### [github.com/karpathy/makemore](https://github.com/karpathy/makemore/blob/master/makemore.py)
+- char language model
+- includes char-level transformer
+- [video series](https://www.youtube.com/watch?v=PaCmpygFfXo) being created that goes with it
+
+
 ### [Optuna tutorial](https://optuna.readthedocs.io/en/stable/tutorial/index.html)
 - includes a tutorial video
 - "Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning"
