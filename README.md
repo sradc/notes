@@ -77,6 +77,10 @@ above the functions, and it suggested the names that are currently used... Amazi
 
 # Links and resources
 
+### [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+- "A collection of resources and papers on Diffusion Models and Score-matching Models, a darkhorse in the field of Generative Models"
+
+
 ### [CarperAI/FIM-NeoX-1.3B](https://huggingface.co/CarperAI/FIM-NeoX-1.3B)
 - large-scale infilling-enabled autoregressive language model (first of a series)
 
