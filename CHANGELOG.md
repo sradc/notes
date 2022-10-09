@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/sradc/notes/compare/notes-archive-1.0.0...notes-archive-1.1.0) (2022-10-09)
+
+
+### Features
+
+* testing semantic release... ([5bfa0c4](https://github.com/sradc/notes/commit/5bfa0c4560920ee8ac7a3790335253d4c46bbd8a))
+
 # 1.0.0 (2022-10-09)
 
 
