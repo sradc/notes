@@ -1,0 +1,33 @@
+{
+    "branches": [
+        "main"
+    ],
+    "plugins": [
+        "@semantic-release/commit-analyzer",
+        "@semantic-release/release-notes-generator",
+        "@semantic-release/changelog",
+        [
+            "@semantic-release/git",
+            {
+                "assets": [
+                    "./CHANGELOG.md",
+                    "version"
+                ]
+            }
+        ],
+        [
+            "@semantic-release/github",
+            {
+                "assets": [
+                    {
+                        "path": "*",
+                        "name": "notes-archive-${nextRelease.gitTag}",
+                        "label": "Archive of notes ${nextRelease.gitTag}"
+                    }
+                ]
+            }
+        ]
+    ],
+    "tagFormat": "release-${version}",
+    "repositoryUrl": "https://github.com/sradc/notes"
+}
