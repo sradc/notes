@@ -77,6 +77,9 @@ above the functions, and it suggested the names that are currently used... Amazi
 
 # Links and resources
 
+### [Barnes–Hut simulation](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation)
+- "is an approximation algorithm for performing an n-body simulation. It is notable for having order `O(n log n)` compared to a direct-sum algorithm which would be `O(n2)`"
+
 ### [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 - "A collection of resources and papers on Diffusion Models and Score-matching Models, a darkhorse in the field of Generative Models"
 
