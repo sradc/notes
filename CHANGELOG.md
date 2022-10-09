@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/sradc/notes/compare/notes-archive-1.1.0...notes-archive-1.1.1) (2022-10-09)
+
+
+### Bug Fixes
+
+* .releaserc remove 'version' file that does not exist ([b4caf84](https://github.com/sradc/notes/commit/b4caf843de87e200179a1ef89a9550d2d6b47144))
+* remove extra comma in .releaserc json... ([ff56f63](https://github.com/sradc/notes/commit/ff56f63e9bee51cefd6e7eb8cffd734cfc6bf55d))
+
 # [1.1.0](https://github.com/sradc/notes/compare/notes-archive-1.0.0...notes-archive-1.1.0) (2022-10-09)
 
 
