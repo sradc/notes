@@ -18,16 +18,10 @@
         [
             "@semantic-release/github",
             {
-                "assets": [
-                    {
-                        "path": "*",
-                        "name": "notes-archive-${nextRelease.gitTag}",
-                        "label": "Archive of notes ${nextRelease.gitTag}"
-                    }
-                ]
+                "assets": []
             }
         ]
     ],
-    "tagFormat": "release-${version}",
+    "tagFormat": "notes-archive-${version}",
     "repositoryUrl": "https://github.com/sradc/notes"
 }
