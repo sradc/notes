@@ -77,8 +77,15 @@ above the functions, and it suggested the names that are currently used... Amazi
 
 # Links and resources
 
+
+### [AudioLM: a Language Modeling Approach to Audio Generation](https://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
+- "a language modeling approach to audio generation that provides both long-term coherence and high audio quality"
+- https://www.youtube.com/watch?v=_xkZwJ0H9IU
+
+
 ### [Barnes–Hut simulation](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation)
 - "is an approximation algorithm for performing an n-body simulation. It is notable for having order `O(n log n)` compared to a direct-sum algorithm which would be `O(n2)`"
+
 
 ### [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 - "A collection of resources and papers on Diffusion Models and Score-matching Models, a darkhorse in the field of Generative Models"
