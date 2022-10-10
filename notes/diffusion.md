@@ -1,5 +1,7 @@
 # Diffusion
 
+<img src="../media/diffusion_models.jpg" width=500>
+
 ## Resources
 
 Code
