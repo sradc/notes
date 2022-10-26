@@ -78,6 +78,10 @@ above the functions, and it suggested the names that are currently used... Amazi
 # Links and resources
 
 
+### [ The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
+- [Hacker News discussion](https://news.ycombinator.com/item?id=33280605)
+
+
 ### [AudioLM: a Language Modeling Approach to Audio Generation](https://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
 - "a language modeling approach to audio generation that provides both long-term coherence and high audio quality"
 - https://www.youtube.com/watch?v=_xkZwJ0H9IU
