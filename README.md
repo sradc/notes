@@ -78,6 +78,10 @@ above the functions, and it suggested the names that are currently used... Amazi
 # Links and resources
 
 
+### [The evolution of trust - Nicky Case](https://ncase.me/trust/)
+- interactive explanation/simulator/game of trust in society
+
+
 ### [ The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
 - [Hacker News discussion](https://news.ycombinator.com/item?id=33280605)
 
